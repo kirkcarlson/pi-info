@@ -8,7 +8,7 @@ to track a fleet of Raspberry Pis and to get internal operating parameters to be
 Usage from command line:
 ```
 python piiinfo.py [-0] [-a] [-i] [-I] [-v] [-V] [-s] [-t] [--debug] [-h] [--help]
-'''
+```
 where:
 
 -0 is to turn off all selections
