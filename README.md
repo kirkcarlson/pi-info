@@ -1,4 +1,4 @@
-# piinfo
+# pi-info -- Retrieve Infomation about the Raspberry Pi
 A python program to return Raspberry Pi system information to the standard output. It has
 options for controlling the output.
 
