@@ -32,8 +32,7 @@ where:
 
 default is to print system and Pi variables
 
-Note program must be run with superuser privleges if the Sense Hat measurements are to be accessed.
-```
+**Note** program must be run with superuser privleges if the Sense Hat measurements are to be accessed.
   
 Usage for the periodic sending of MQTT messages, do something like:
 ```
@@ -49,5 +48,5 @@ Usage for logging startups to the /boot directory do something like:
   and to note graceful shutdowns as well.
 ```
   
-The test.sh file is used to test the parameter processing of the program. Add new tests as necessary.
+The **test.sh** file is used to test the parameter processing of the program. Add new tests as necessary.
 
